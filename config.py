@@ -9,5 +9,4 @@ database = "u872052480_debojit"  # Database Name
 user_db = "u872052480_debojit"  # Database Username
 passwd_db = "Debojit@2024"  # Database Password
 port = 3306
-
 python_version = "python"
